@@ -1,6 +1,6 @@
-POST http://localhost:5000/skills
+POST http://localhost:5001/skills
 Content-Type: application/json
 
 {
-  "name": "React"
+  "name": "Sublime text"
 }
